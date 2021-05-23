@@ -1,7 +1,0 @@
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\bin\Debug\CalculadoraDeCambio.exe.config
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\bin\Debug\CalculadoraDeCambio.exe
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\bin\Debug\CalculadoraDeCambio.pdb
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\obj\Debug\CalculadoraDeCambio.csprojAssemblyReference.cache
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\obj\Debug\CalculadoraDeCambio.csproj.CoreCompileInputs.cache
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\obj\Debug\CalculadoraDeCambio.exe
-C:\Users\Lucas Campolim\source\repos\CalculadoraDeCambio\CalculadoraDeCambio\obj\Debug\CalculadoraDeCambio.pdb

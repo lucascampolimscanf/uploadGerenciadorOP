@@ -1,9 +1,0 @@
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\bin\Debug\GerenciadorOP.exe.config
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\bin\Debug\GerenciadorOP.exe
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\bin\Debug\GerenciadorOP.pdb
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\obj\Debug\GerenciadorOP.csprojAssemblyReference.cache
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\obj\Debug\GerenciadorOP.Properties.Resources.resources
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\obj\Debug\GerenciadorOP.csproj.GenerateResource.cache
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\obj\Debug\GerenciadorOP.csproj.CoreCompileInputs.cache
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\obj\Debug\GerenciadorOP.exe
-C:\Users\Lucas Campolim\source\repos\GerenciadorOP\GerenciadorOP\obj\Debug\GerenciadorOP.pdb
