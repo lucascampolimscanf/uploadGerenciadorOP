@@ -1,0 +1,42 @@
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\WindowsFormsAppComSQLite.exe.config
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\WindowsFormsAppComSQLite.exe
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\WindowsFormsAppComSQLite.pdb
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csprojAssemblyReference.cache
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.Properties.Resources.resources
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csproj.GenerateResource.cache
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.exe
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.pdb
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\x86\sqlite3.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\x64\sqlite3.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.xml
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csproj.CopyComplete
+C:\Users\Caio\source\repos\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.JanelaPrincipal.resources
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\x86\sqlite3.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\x64\sqlite3.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\WindowsFormsAppComSQLite.exe.config
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\WindowsFormsAppComSQLite.exe
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\WindowsFormsAppComSQLite.pdb
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.xml
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csprojAssemblyReference.cache
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.JanelaPrincipal.resources
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.Properties.Resources.resources
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csproj.GenerateResource.cache
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.csproj.CopyComplete
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.exe
+C:\Users\Lucas Campolim\Downloads\WindowsFormsAppComSQLite\obj\Debug\WindowsFormsAppComSQLite.pdb
